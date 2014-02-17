@@ -1,0 +1,4 @@
+IRSSIPrompt
+===========
+
+XMPP Shell :P
